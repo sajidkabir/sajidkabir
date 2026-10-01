@@ -1,6 +1,6 @@
 # Sajid Kabir Saji
 
-Aeronautical engineer (BEng, 2022). I build open-source Python tools for drone autonomy, flight physics, and aviation data. Every project ships with a full automated test suite, CI, and honest documentation of its own limitations.
+Engineer, builder, thinker. I build open-source Python tools for drone autonomy, flight physics, and aviation data. Every project ships with a full automated test suite, CI, and honest documentation of its own limitations.
 
 My research focus is onboard autonomous decision-making for drones: aircraft that perceive their surroundings, evaluate options, and act on their own. Solar-electric endurance is a complementary line of work, growing out of my undergraduate thesis on a solar-powered quadcopter.
 
